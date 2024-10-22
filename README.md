@@ -36,24 +36,24 @@ Files from my bachelors in Aerospace engineering
     </tr>
     <tr>
       <td rowspan="5">2º ano</td>
-      <td>Termodinâmica e Dinâmica de Fluidos</td>
-      <td>Campo Eletromagnético</td>
+      <th>Termodinâmica e Dinâmica de Fluidos</th>
+      <th>Campo Eletromagnético</th>
     </tr>
     <tr>
-      <td>Cálculo III</td>
-      <td>Propriedades térmicas e mecânicas dos materiais</td>
+      <th>Cálculo III</th>
+      <th>Propriedades térmicas e mecânicas dos materiais</th>
     </tr>
     <tr>
-      <td>Design de Estruturas Aeroespaciais</td>
-      <td>Mecânica dos fluidos</td>
+      <th>Design de Estruturas Aeroespaciais</th>
+      <th>Mecânica dos fluidos</th>
     </tr>
     <tr>
-      <td>Ondas e mecânica aplicada</td>
-      <td>Sistemas eletrônicos</td>
+      <th>Ondas e mecânica aplicada</th>
+      <th>Sistemas eletrônicos</th>
     </tr>
     <tr>
-      <td>Competências Transferíveis I</td>
-      <td>Competências Transferíveis II</td>
+      <th>Competências Transferíveis I</th>
+      <th>Competências Transferíveis II</th>
     </tr>
     <tr>
       <td rowspan="5">3º ano</td>
