@@ -57,19 +57,19 @@ Files from my bachelors in Aerospace engineering
     </tr>
     <tr>
       <td rowspan="5">3º ano</td>
-      <td colspan="2">Projeto em Engenharia Aeroespacial</td>
+      <th colspan="2">Projeto em Engenharia Aeroespacial</th>
     </tr>
     <tr>
-      <td>Modelação de Sistemas e Controlo Aeroespacial</td>
-      <td>Aeroelasticidade</td>
+      <th>Modelação de Sistemas e Controlo Aeroespacial</th>
+      <th>Aeroelasticidade</th>
     </tr>
     <tr>
-      <td>Tecnologias para Sistemas de Energia Espaciais</td>
-      <td>Propagação e Radiação de Ondas eletromagnéticas</td>
+      <th>Tecnologias para Sistemas de Energia Espaciais</th>
+      <th>Propagação e Radiação de Ondas eletromagnéticas</th>
     </tr>
     <tr>
-      <td>Engenharia de Estruturas Aeroespaciais</td>
-      <td>Realidade Virtual em Engenharia</td>
+      <th>Engenharia de Estruturas Aeroespaciais</th>
+      <th>Realidade Virtual em Engenharia</th>
     </tr>
     <tr>
       <th>Laboratório de Design</th>
