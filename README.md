@@ -15,24 +15,24 @@ Files from my bachelors in Aerospace engineering
   <tbody>
     <tr>
       <td rowspan="5">1º ano</td>
-      <td>ALGA</td>
-      <td>Cálculo II</td>
+      <th>ALGA</th>
+      <th>Cálculo II</th>
     </tr>
     <tr>
-      <td>Cálculo I</td>
-      <td>Introdução a Arquitetura de Computadores</td>
+      <th>Cálculo I</th>
+      <th>Introdução a Arquitetura de Computadores</th>
     </tr>
     <tr>
-      <td>Programação</td>
-      <td>Mecânica dos sólidos</td>
+      <th>Programação</th>
+      <th>Mecânica dos sólidos</th>
     </tr>
     <tr>
-      <td>Introdução a Engenharia Aeroespacial</td>
-      <td>Materiais e tecnologias de fabrico</td>
+      <th>Introdução a Engenharia Aeroespacial</th>
+      <th>Materiais e tecnologias de fabrico</th>
     </tr>
     <tr>
-      <td>Mecânica Clássica</td>
-      <td>Desenho Técnico</td>
+      <th>Mecânica Clássica</th>
+      <th>Desenho Técnico</th>
     </tr>
     <tr>
       <td rowspan="5">2º ano</td>
