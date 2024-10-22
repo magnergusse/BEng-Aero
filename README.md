@@ -72,8 +72,8 @@ Files from my bachelors in Aerospace engineering
       <td>Realidade Virtual em Engenharia</td>
     </tr>
     <tr>
-      <td>Laboratório de Design</td>
-      <td>Laboratório de Manufatura</td>
+      <th>Laboratório de Design</th>
+      <th>Laboratório de Manufatura</th>
     </tr>
   </tbody>
 </table>
