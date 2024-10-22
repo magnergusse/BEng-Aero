@@ -4,11 +4,76 @@ Files from my bachelors in Aerospace engineering
 
 ## Unidades Curriculares
 
-| 1º ano | | 2º ano  | | 3º ano  | |
-| --- | --- | --- | --- | --- | --- |
-| 1º semestre | 2º semestre | 1º semestre | 2º semestre | 1º semestre | 2º semestre |
-| ALGA | Cálculo II | Termodinâmica e Dinâmica de Fluídos | Campo Eletromagnético | Projeto em Engenharia Aeroespacial| |
-| Cálculo I | Introdução a Arquitetura de Computadores | Cálculo III |Propriedades térmicas e mecânicas dos materiais |Modelação de Sistemas e Controlo Aeroespacial | Aeroelasticidade|
-| Programação | Mecânica dos sólidos | Design de Estruturas Aeroespaciais | Mecânica dos fluídos| Tecnologias para Sistemas de Energia Espaciais|Propagação e Radiação de Ondas eletromagnéticas |
-| Introdução a Engenharia Aeroespacial | Materiais e tecnologias de fabrico |Ondas e mecânica aplicada |Sistemas eletrónicos |Engenharia de Estruturas Aeroespaciais | Realidade Virtual em Engenharia|
-| Mecânica Clássica | Desenho Técnico | Competências Transferíveis I| Competências Transferíveis II|Laboratório de Design |Laboratório de Manufatura |
+<table>
+  <thead>
+    <tr>
+      <th>Ano</th>
+      <th>1º semestre</th>
+      <th>2º semestre</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="5">1º ano</td>
+      <td>ALGA</td>
+      <td>Cálculo II</td>
+    </tr>
+    <tr>
+      <td>Cálculo I</td>
+      <td>Introdução a Arquitetura de Computadores</td>
+    </tr>
+    <tr>
+      <td>Programação</td>
+      <td>Mecânica dos sólidos</td>
+    </tr>
+    <tr>
+      <td>Introdução a Engenharia Aeroespacial</td>
+      <td>Materiais e tecnologias de fabrico</td>
+    </tr>
+    <tr>
+      <td>Mecânica Clássica</td>
+      <td>Desenho Técnico</td>
+    </tr>
+    <tr>
+      <td rowspan="5">2º ano</td>
+      <td>Termodinâmica e Dinâmica de Fluidos</td>
+      <td>Campo Eletromagnético</td>
+    </tr>
+    <tr>
+      <td>Cálculo III</td>
+      <td>Propriedades térmicas e mecânicas dos materiais</td>
+    </tr>
+    <tr>
+      <td>Design de Estruturas Aeroespaciais</td>
+      <td>Mecânica dos fluidos</td>
+    </tr>
+    <tr>
+      <td>Ondas e mecânica aplicada</td>
+      <td>Sistemas eletrônicos</td>
+    </tr>
+    <tr>
+      <td>Competências Transferíveis I</td>
+      <td>Competências Transferíveis II</td>
+    </tr>
+    <tr>
+      <td rowspan="5">3º ano</td>
+      <td rowspan="2">Projeto em Engenharia Aeroespacial</td>
+      <td>Aeroelasticidade</td>
+    </tr>
+    <tr>
+      <td>Modelação de Sistemas e Controlo Aeroespacial</td>
+    </tr>
+    <tr>
+      <td>Tecnologias para Sistemas de Energia Espaciais</td>
+      <td>Propagação e Radiação de Ondas eletromagnéticas</td>
+    </tr>
+    <tr>
+      <td>Engenharia de Estruturas Aeroespaciais</td>
+      <td>Realidade Virtual em Engenharia</td>
+    </tr>
+    <tr>
+      <td>Laboratório de Design</td>
+      <td>Laboratório de Manufatura</td>
+    </tr>
+  </tbody>
+</table>
