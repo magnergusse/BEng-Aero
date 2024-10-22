@@ -8,7 +8,7 @@ Files from my bachelors in Aerospace engineering
 | --- | --- | --- | --- | --- | --- |
 | 1º semestre | 2º semestre | 1º semestre | 2º semestre | 1º semestre | 2º semestre |
 | ALGA | CII | AED | MPEI | | |
-| CI | IAC | RS | | | |
+| Cálculo I | IAC | RS | | | |
 | Programação | LSD* | SM | | | |
-| IEA | MD | | | | |
+| Introdução a Engenharia Aeroespacial | MD | | | | |
 | Mecânica Clássica | MSF | | | | 
