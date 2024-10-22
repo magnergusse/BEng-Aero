@@ -57,7 +57,7 @@ Files from my bachelors in Aerospace engineering
     </tr>
     <tr>
       <td rowspan="5">3º ano</td>
-      <td colspan="2">Projeto em Engenharia Aeroespacial</td>
+      <th colspan="2">Projeto em Engenharia Aeroespacial</th>
     </tr>
     <tr>
       <td>Modelação de Sistemas e Controlo Aeroespacial</td>
