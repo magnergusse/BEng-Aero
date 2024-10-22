@@ -15,65 +15,65 @@ Files from my bachelors in Aerospace engineering
   <tbody>
     <tr>
       <td rowspan="5">1º ano</td>
-      <th>ALGA</th>
-      <th>Cálculo II</th>
+      <td>ALGA</td>
+      <td>Cálculo II</td>
     </tr>
     <tr>
-      <th>Cálculo I</th>
-      <th>Introdução a Arquitetura de Computadores</th>
+      <td>Cálculo I</td>
+      <td>Introdução a Arquitetura de Computadores</td>
     </tr>
     <tr>
-      <th>Programação</th>
-      <th>Mecânica dos sólidos</th>
+      <td>Programação</td>
+      <td>Mecânica dos sólidos</td>
     </tr>
     <tr>
-      <th>Introdução a Engenharia Aeroespacial</th>
-      <th>Materiais e tecnologias de fabrico</th>
+      <td>Introdução a Engenharia Aeroespacial</td>
+      <td>Materiais e tecnologias de fabrico</td>
     </tr>
     <tr>
-      <th>Mecânica Clássica</th>
-      <th>Desenho Técnico</th>
+      <td>Mecânica Clássica</td>
+      <td>Desenho Técnico</td>
     </tr>
     <tr>
       <td rowspan="5">2º ano</td>
-      <th>Termodinâmica e Dinâmica de Fluidos</th>
-      <th>Campo Eletromagnético</th>
+      <td>Termodinâmica e Dinâmica de Fluidos</td>
+      <td>Campo Eletromagnético</td>
     </tr>
     <tr>
-      <th>Cálculo III</th>
-      <th>Propriedades térmicas e mecânicas dos materiais</th>
+      <td>Cálculo III</td>
+      <td>Propriedades térmicas e mecânicas dos materiais</td>
     </tr>
     <tr>
-      <th>Design de Estruturas Aeroespaciais</th>
-      <th>Mecânica dos fluidos</th>
+      <td>Design de Estruturas Aeroespaciais</td>
+      <td>Mecânica dos fluidos</td>
     </tr>
     <tr>
-      <th>Ondas e mecânica aplicada</th>
-      <th>Sistemas eletrônicos</th>
+      <td>Ondas e mecânica aplicada</td>
+      <td>Sistemas eletrônicos</td>
     </tr>
     <tr>
-      <th>Competências Transferíveis I</th>
-      <th>Competências Transferíveis II</th>
+      <td>Competências Transferíveis I</td>
+      <td>Competências Transferíveis II</td>
     </tr>
     <tr>
       <td rowspan="5">3º ano</td>
-      <th colspan="2">Projeto em Engenharia Aeroespacial</th>
+      <td rowspan="2">Projeto em Engenharia Aeroespacial</td>
+      <td>Aeroelasticidade</td>
     </tr>
     <tr>
-      <th>Modelação de Sistemas e Controlo Aeroespacial</th>
-      <th>Aeroelasticidade</th>
+      <td>Modelação de Sistemas e Controlo Aeroespacial</td>
     </tr>
     <tr>
-      <th>Tecnologias para Sistemas de Energia Espaciais</th>
-      <th>Propagação e Radiação de Ondas eletromagnéticas</th>
+      <td>Tecnologias para Sistemas de Energia Espaciais</td>
+      <td>Propagação e Radiação de Ondas eletromagnéticas</td>
     </tr>
     <tr>
-      <th>Engenharia de Estruturas Aeroespaciais</th>
-      <th>Realidade Virtual em Engenharia</th>
+      <td>Engenharia de Estruturas Aeroespaciais</td>
+      <td>Realidade Virtual em Engenharia</td>
     </tr>
     <tr>
-      <th>Laboratório de Design</th>
-      <th>Laboratório de Manufatura</th>
+      <td>Laboratório de Design</td>
+      <td>Laboratório de Manufatura</td>
     </tr>
   </tbody>
 </table>
