@@ -1,6 +1,6 @@
 # BEng-Aero
 Files from my bachelors in Aerospace engineering
-# Licenciatura em Engenharia Informática
+# Licenciatura em Engenharia Aeroespacial
 
 ## Unidades Curriculares
 
