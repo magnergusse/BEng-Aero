@@ -1,5 +1,5 @@
 # BEng-Aero
-Files from my bachelors in Aerospace engineering
+Files from my bachelor's in Aerospace Engineering  
 # Licenciatura em Engenharia Aeroespacial
 
 ## Unidades Curriculares
@@ -15,65 +15,65 @@ Files from my bachelors in Aerospace engineering
   <tbody>
     <tr>
       <td rowspan="5">1º ano</td>
-      <td>ALGA</td>
-      <td>Cálculo II</td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">ALGA</a></td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Cálculo II</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Calculo 1</a></td>
-      <td>Introdução a Arquitetura de Computadores</td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Cálculo I</a></td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Introdução a Arquitetura de Computadores</a></td>
     </tr>
     <tr>
-      <td>Programação</td>
-      <td>Mecânica dos sólidos</td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Programação</a></td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Mecânica dos sólidos</a></td>
     </tr>
     <tr>
-      <td>Introdução a Engenharia Aeroespacial</td>
-      <td>Materiais e tecnologias de fabrico</td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Introdução a Engenharia Aeroespacial</a></td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Materiais e tecnologias de fabrico</a></td>
     </tr>
     <tr>
-      <td>Mecânica Clássica</td>
-      <td>Desenho Técnico</td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Mecânica Clássica</a></td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Desenho Técnico</a></td>
     </tr>
     <tr>
       <td rowspan="5">2º ano</td>
-      <td>Termodinâmica e Dinâmica de Fluidos</td>
-      <td>Campo Eletromagnético</td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Termodinâmica e Dinâmica de Fluidos</a></td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Campo Eletromagnético</a></td>
     </tr>
     <tr>
-      <td>Cálculo III</td>
-      <td>Propriedades térmicas e mecânicas dos materiais</td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Cálculo III</a></td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Propriedades térmicas e mecânicas dos materiais</a></td>
     </tr>
     <tr>
-      <td>Design de Estruturas Aeroespaciais</td>
-      <td>Mecânica dos fluidos</td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Design de Estruturas Aeroespaciais</a></td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Mecânica dos fluidos</a></td>
     </tr>
     <tr>
-      <td>Ondas e mecânica aplicada</td>
-      <td>Sistemas eletrônicos</td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Ondas e mecânica aplicada</a></td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Sistemas eletrônicos</a></td>
     </tr>
     <tr>
-      <td>Competências Transferíveis I</td>
-      <td>Competências Transferíveis II</td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Competências Transferíveis I</a></td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Competências Transferíveis II</a></td>
     </tr>
     <tr>
       <td rowspan="5">3º ano</td>
-      <th colspan="2">Projeto em Engenharia Aeroespacial</th>
+      <th colspan="2"><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Projeto em Engenharia Aeroespacial</a></th>
     </tr>
     <tr>
-      <td>Modelação de Sistemas e Controlo Aeroespacial</td>
-      <td>Aeroelasticidade</td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Modelação de Sistemas e Controlo Aeroespacial</a></td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Aeroelasticidade</a></td>
     </tr>
     <tr>
-      <td>Tecnologias para Sistemas de Energia Espaciais</td>
-      <td>Propagação e Radiação de Ondas eletromagnéticas</td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Tecnologias para Sistemas de Energia Espaciais</a></td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Propagação e Radiação de Ondas eletromagnéticas</a></td>
     </tr>
     <tr>
-      <td>Engenharia de Estruturas Aeroespaciais</td>
-      <td>Realidade Virtual em Engenharia</td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Engenharia de Estruturas Aeroespaciais</a></td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Realidade Virtual em Engenharia</a></td>
     </tr>
     <tr>
-      <td>Laboratório de Design</td>
-      <td>Laboratório de Manufatura</td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Laboratório de Design</a></td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Laboratório de Manufatura</a></td>
     </tr>
   </tbody>
 </table>
