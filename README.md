@@ -19,7 +19,7 @@ Files from my bachelors in Aerospace engineering
       <td>Cálculo II</td>
     </tr>
     <tr>
-      <td>[Calculo-1](https://github.com/magnergusse/Calculo-1)</td>
+      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Calculo 1</a></td>
       <td>Introdução a Arquitetura de Computadores</td>
     </tr>
     <tr>
