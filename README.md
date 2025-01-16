@@ -57,23 +57,23 @@ Files from my bachelor's in Aerospace Engineering
     </tr>
     <tr>
       <td rowspan="5">3º ano</td>
-      <th colspan="2"><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Projeto em Engenharia Aeroespacial</a></th>
+      <th colspan="2"><a href="https://github.com/magnergusse/Projeto-em-Engenharia-Aeroespacial" target="_blank" rel="noopener noreferrer">Projeto em Engenharia Aeroespacial</a></th>
     </tr>
     <tr>
-      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Modelação de Sistemas e Controlo Aeroespacial</a></td>
-      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Aeroelasticidade</a></td>
+      <td><a href="https://github.com/magnergusse/MSCA" target="_blank" rel="noopener noreferrer">Modelação de Sistemas e Controlo Aeroespacial</a></td>
+      <td><a href="https://github.com/magnergusse/Aeroelasticidade" target="_blank" rel="noopener noreferrer">Aeroelasticidade</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Tecnologias para Sistemas de Energia Espaciais</a></td>
-      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Propagação e Radiação de Ondas eletromagnéticas</a></td>
+      <td><a href="https://github.com/magnergusse/TSEE" target="_blank" rel="noopener noreferrer">Tecnologias para Sistemas de Energia Espaciais</a></td>
+      <td><a href="https://github.com/magnergusse/PROE" target="_blank" rel="noopener noreferrer">Propagação e Radiação de Ondas eletromagnéticas</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Engenharia de Estruturas Aeroespaciais</a></td>
-      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Realidade Virtual em Engenharia</a></td>
+      <td><a href="https://github.com/magnergusse/EEA" target="_blank" rel="noopener noreferrer">Engenharia de Estruturas Aeroespaciais</a></td>
+      <td><a href="https://github.com/magnergusse/RVE" target="_blank" rel="noopener noreferrer">Realidade Virtual em Engenharia</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Laboratório de Design</a></td>
-      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Laboratório de Manufatura</a></td>
+      <td><a href="https://github.com/magnergusse/Laboratorio-de-Design" target="_blank" rel="noopener noreferrer">Laboratório de Design</a></td>
+      <td><a href="https://github.com/magnergusse/Laboratorio-de-Manufatura" target="_blank" rel="noopener noreferrer">Laboratório de Manufatura</a></td>
     </tr>
   </tbody>
 </table>
