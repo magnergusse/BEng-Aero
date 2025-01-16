@@ -36,24 +36,24 @@ Files from my bachelor's in Aerospace Engineering
     </tr>
     <tr>
       <td rowspan="5">2º ano</td>
-      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Termodinâmica e Dinâmica de Fluidos</a></td>
-      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Campo Eletromagnético</a></td>
+      <td><a href="https://github.com/magnergusse/TDF" target="_blank" rel="noopener noreferrer">Termodinâmica e Dinâmica de Fluidos</a></td>
+      <td><a href="https://github.com/magnergusse/Campo-Eletromagnetico" target="_blank" rel="noopener noreferrer">Campo Eletromagnético</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Cálculo III</a></td>
-      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Propriedades térmicas e mecânicas dos materiais</a></td>
+      <td><a href="https://github.com/magnergusse/Calculo-3" target="_blank" rel="noopener noreferrer">Cálculo III</a></td>
+      <td><a href="https://github.com/magnergusse/PMTM" target="_blank" rel="noopener noreferrer">Propriedades térmicas e mecânicas dos materiais</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Design de Estruturas Aeroespaciais</a></td>
-      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Mecânica dos fluidos</a></td>
+      <td><a href="https://github.com/magnergusse/DEA" target="_blank" rel="noopener noreferrer">Design de Estruturas Aeroespaciais</a></td>
+      <td><a href="https://github.com/magnergusse/Mecanica-dos-Fluidos" target="_blank" rel="noopener noreferrer">Mecânica dos fluidos</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Ondas e mecânica aplicada</a></td>
-      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Sistemas eletrônicos</a></td>
+      <td><a href="https://github.com/magnergusse/OMA" target="_blank" rel="noopener noreferrer">Ondas e mecânica aplicada</a></td>
+      <td><a href="https://github.com/magnergusse/Sistemas-Eletronicos" target="_blank" rel="noopener noreferrer">Sistemas eletrônicos</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Competências Transferíveis I</a></td>
-      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Competências Transferíveis II</a></td>
+      <td><a href="https://github.com/magnergusse/CT1" target="_blank" rel="noopener noreferrer">Competências Transferíveis I</a></td>
+      <td><a href="https://github.com/magnergusse/CT2" target="_blank" rel="noopener noreferrer">Competências Transferíveis II</a></td>
     </tr>
     <tr>
       <td rowspan="5">3º ano</td>
