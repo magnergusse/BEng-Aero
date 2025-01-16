@@ -31,7 +31,7 @@ Files from my bachelor's in Aerospace Engineering
       <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Materiais e tecnologias de fabrico</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Mecânica Clássica</a></td>
+      <td><a href="https://github.com/magnergusse/Mecanica-Classica" target="_blank" rel="noopener noreferrer">Mecânica Clássica</a></td>
       <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Desenho Técnico</a></td>
     </tr>
     <tr>
