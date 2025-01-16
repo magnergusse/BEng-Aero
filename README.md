@@ -15,7 +15,7 @@ Files from my bachelor's in Aerospace Engineering
   <tbody>
     <tr>
       <td rowspan="5">1º ano</td>
-      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">ALGA</a></td>
+      <td><a href="https://github.com/magnergusse/Alga" target="_blank" rel="noopener noreferrer">ALGA</a></td>
       <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Cálculo II</a></td>
     </tr>
     <tr>
@@ -23,11 +23,11 @@ Files from my bachelor's in Aerospace Engineering
       <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Introdução a Arquitetura de Computadores</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Programação</a></td>
+      <td><a href="https://github.com/magnergusse/Programacao" target="_blank" rel="noopener noreferrer">Programação</a></td>
       <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Mecânica dos sólidos</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Introdução a Engenharia Aeroespacial</a></td>
+      <td><a href="https://github.com/magnergusse/IEA" target="_blank" rel="noopener noreferrer">Introdução a Engenharia Aeroespacial</a></td>
       <td><a href="https://github.com/magnergusse/Calculo-1" target="_blank" rel="noopener noreferrer">Materiais e tecnologias de fabrico</a></td>
     </tr>
     <tr>
