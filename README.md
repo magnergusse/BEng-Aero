@@ -2,8 +2,8 @@
 Files from my bachelor's in Aerospace Engineering  
 # Licenciatura em Engenharia Aeroespacial
 
-## Unidades Curriculares
-## Courses
+## Unidades Curriculares / Courses
+
 <table>
   <thead>
     <tr>
