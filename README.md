@@ -1,4 +1,5 @@
-# Bachelors in Aerospace Engineering/ Licenciatura em Engenharia Aeroespacial
+# Bachelors in Aerospace Engineering
+# Licenciatura em Engenharia Aeroespacial
 Files from my bachelor's in Aerospace Engineering  
 # Licenciatura em Engenharia Aeroespacial
 
